@@ -12,8 +12,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7842ef21-ec15-482e-87ef-0368cc0d4a5a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MeatPoint.iml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/release/app-release.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/souvikchaudhury.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/volley/build/generated/mockable-android-22.v3.jar" afterPath="$PROJECT_DIR$/volley/build/generated/mockable-android-22.v3.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/release/output.json" afterPath="$PROJECT_DIR$/app/release/output.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/souvik/tendercuts/activity/AddNewDeliveryAddress.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/souvik/tendercuts/activity/AddNewDeliveryAddress.java" />
@@ -33,6 +43,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_product_details.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_product_details.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_item_list.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_item_list.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/product_listing_row.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/product_listing_row.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/volley/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/volley/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/volley/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/volley/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/volley/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/volley/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/volley/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/volley/build/intermediates/incremental/packageDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/volley/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/volley/build/outputs/logs/manifest-merger-debug-report.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,29 +74,14 @@
       <file leaf-file-name="DeliverySummaryActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/souvik/tendercuts/activity/DeliverySummaryActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9139">
+            <state relative-caret-position="15870">
               <caret line="1479" column="27" lean-forward="false" selection-start-line="1479" selection-start-column="27" selection-end-line="1479" selection-end-column="27" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#4980#4996#0" expanded="true" />
                 <element signature="e#9038#9074#0" expanded="false" />
-                <element signature="e#11500#11642#0" expanded="true" />
-                <element signature="e#11641#11642#0" expanded="true" />
-                <element signature="e#18566#19608#0" expanded="true" />
-                <element signature="e#19607#19608#0" expanded="true" />
-                <element signature="e#19716#22639#0" expanded="true" />
+                <element signature="e#11591#11592#0" expanded="false" />
+                <element signature="e#11631#11632#0" expanded="false" />
                 <element signature="e#20140#20187#0" expanded="false" />
-                <element signature="e#22638#22639#0" expanded="true" />
-                <element signature="e#22763#23261#0" expanded="true" />
-                <element signature="e#23260#23261#0" expanded="true" />
-                <element signature="e#26992#27008#0" expanded="true" />
-                <element signature="e#34764#35872#0" expanded="true" />
-                <element signature="e#35871#35872#0" expanded="true" />
-                <element signature="e#39059#39844#0" expanded="true" />
-                <element signature="e#39843#39844#0" expanded="true" />
                 <element signature="e#42160#42162#0" expanded="false" />
-                <element signature="e#66048#66064#0" expanded="true" />
-                <element signature="e#72200#72216#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,10 +90,15 @@
       <file leaf-file-name="DeliveryAddress.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/souvik/tendercuts/activity/DeliveryAddress.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
+            <state relative-caret-position="3945">
               <caret line="318" column="108" lean-forward="false" selection-start-line="313" selection-start-column="8" selection-end-line="318" selection-end-column="108" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#3630#3631#0" expanded="false" />
+                <element signature="e#3670#3671#0" expanded="false" />
+                <element signature="e#11067#11068#0" expanded="false" />
+                <element signature="e#11098#11099#0" expanded="false" />
+                <element signature="e#11139#11140#0" expanded="false" />
+                <element signature="e#11171#11172#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -120,7 +125,7 @@
       <file leaf-file-name="OrderSumActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/souvik/tendercuts/activity/OrderSumActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
+            <state relative-caret-position="4845">
               <caret line="385" column="34" lean-forward="false" selection-start-line="385" selection-start-column="34" selection-end-line="385" selection-end-column="34" />
               <folding />
             </state>
@@ -130,7 +135,7 @@
       <file leaf-file-name="PaymentConfirm.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/souvik/tendercuts/activity/PaymentConfirm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
+            <state relative-caret-position="7020">
               <caret line="562" column="152" lean-forward="false" selection-start-line="562" selection-start-column="141" selection-end-line="562" selection-end-column="152" />
               <folding />
             </state>
@@ -155,7 +160,23 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="166">
               <caret line="374" column="26" lean-forward="false" selection-start-line="374" selection-start-column="8" selection-end-line="374" selection-end-column="26" />
-              <folding />
+              <folding>
+                <element signature="e#4188#4414#0" expanded="true" />
+                <element signature="e#4413#4414#0" expanded="true" />
+                <element signature="e#7430#9411#0" expanded="true" />
+                <element signature="e#9410#9411#0" expanded="true" />
+                <element signature="e#9461#10442#0" expanded="true" />
+                <element signature="e#10441#10442#0" expanded="true" />
+                <element signature="e#11230#12333#0" expanded="true" />
+                <element signature="e#12332#12333#0" expanded="true" />
+                <element signature="e#12568#13518#0" expanded="true" />
+                <element signature="e#13517#13518#0" expanded="true" />
+                <element signature="e#13635#14752#0" expanded="true" />
+                <element signature="e#14751#14752#0" expanded="true" />
+                <element signature="e#14861#15529#0" expanded="true" />
+                <element signature="e#15528#15529#0" expanded="true" />
+                <element signature="e#17284#17300#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -243,14 +264,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="souvikchaudhury" />
+              <option name="name" value="MeatPoint" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="souvikchaudhury" />
+                <option name="name" value="MeatPoint" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -272,7 +293,7 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'souvikchaudhury'." />
+                <option name="description" value="Displays the sub-projects of root project 'MeatPoint'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -357,7 +378,7 @@
                 <option name="name" value="compileDebugAndroidTestJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'souvikchaudhury'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'MeatPoint'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -625,12 +646,12 @@
                 <option name="name" value="generateDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'souvikchaudhury'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project 'MeatPoint'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'souvikchaudhury'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'MeatPoint'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
@@ -756,7 +777,7 @@
                 <option name="name" value="bundleRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'souvikchaudhury'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'MeatPoint'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
@@ -769,7 +790,7 @@
                 <option name="name" value="bundleAppClassesDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'souvikchaudhury' (some of the displayed tasks may belong to subprojects)." />
+                <option name="description" value="Displays the tasks runnable from root project 'MeatPoint' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -787,7 +808,7 @@
                 <option name="name" value="transformNativeLibsWithIntermediateJniLibsForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'souvikchaudhury'." />
+                <option name="description" value="Displays all dependencies declared in root project 'MeatPoint'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -864,7 +885,7 @@
                 <option name="name" value="createDebugCompatibleScreenManifests" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'souvikchaudhury'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'MeatPoint'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -1074,7 +1095,7 @@
                 <option name="name" value="packageDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'souvikchaudhury'." />
+                <option name="description" value="Displays the properties of root project 'MeatPoint'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -2706,7 +2727,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="souvikchaudhury" />
+              <option name="name" value="MeatPoint" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/ide" />
@@ -2931,86 +2952,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="souvikchaudhury" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="souvikchaudhury" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="souvikchaudhury" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="souvikchaudhury" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tendercuts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="souvikchaudhury" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tendercuts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="activity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -3153,6 +3094,86 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="souvikchaudhury" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="souvikchaudhury" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="souvikchaudhury" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="souvikchaudhury" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tendercuts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="souvikchaudhury" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tendercuts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3265,7 +3286,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1547217672880" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1547914949853" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -3312,7 +3333,7 @@
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
       </Profilers>
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1547217672880" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1547914949853" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -3473,7 +3494,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1547217672885" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1547914949854" />
       </method>
     </configuration>
     <list size="1">
@@ -3515,7 +3536,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32932693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -3907,12 +3928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="275" column="9" lean-forward="false" selection-start-line="275" selection-start-column="9" selection-end-line="275" selection-end-column="9" />
-          <folding>
-            <element signature="e#2898#2899#0" expanded="false" />
-            <element signature="e#2935#2936#0" expanded="false" />
-            <element signature="e#2992#2993#0" expanded="false" />
-            <element signature="e#3044#3045#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3920,7 +3935,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
           <caret line="70" column="52" lean-forward="false" selection-start-line="70" selection-start-column="52" selection-end-line="70" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3939,9 +3953,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="81" column="7" lean-forward="false" selection-start-line="81" selection-start-column="7" selection-end-line="81" selection-end-column="7" />
-          <folding>
-            <element signature="e#4230#4280#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3963,7 +3974,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/souvik/tendercuts/activity/PaymentConfirm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
+        <state relative-caret-position="7020">
           <caret line="562" column="152" lean-forward="false" selection-start-line="562" selection-start-column="141" selection-end-line="562" selection-end-column="152" />
           <folding />
         </state>
@@ -3971,7 +3982,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/souvik/tendercuts/activity/OrderSumActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
+        <state relative-caret-position="4845">
           <caret line="385" column="34" lean-forward="false" selection-start-line="385" selection-start-column="34" selection-end-line="385" selection-end-column="34" />
           <folding />
         </state>
@@ -3979,10 +3990,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/souvik/tendercuts/activity/DeliveryAddress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
+        <state relative-caret-position="3945">
           <caret line="318" column="108" lean-forward="false" selection-start-line="313" selection-start-column="8" selection-end-line="318" selection-end-column="108" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#3630#3631#0" expanded="false" />
+            <element signature="e#3670#3671#0" expanded="false" />
+            <element signature="e#11067#11068#0" expanded="false" />
+            <element signature="e#11098#11099#0" expanded="false" />
+            <element signature="e#11139#11140#0" expanded="false" />
+            <element signature="e#11171#11172#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3997,29 +4013,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/souvik/tendercuts/activity/DeliverySummaryActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9139">
+        <state relative-caret-position="15870">
           <caret line="1479" column="27" lean-forward="false" selection-start-line="1479" selection-start-column="27" selection-end-line="1479" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4980#4996#0" expanded="true" />
             <element signature="e#9038#9074#0" expanded="false" />
-            <element signature="e#11500#11642#0" expanded="true" />
-            <element signature="e#11641#11642#0" expanded="true" />
-            <element signature="e#18566#19608#0" expanded="true" />
-            <element signature="e#19607#19608#0" expanded="true" />
-            <element signature="e#19716#22639#0" expanded="true" />
+            <element signature="e#11591#11592#0" expanded="false" />
+            <element signature="e#11631#11632#0" expanded="false" />
             <element signature="e#20140#20187#0" expanded="false" />
-            <element signature="e#22638#22639#0" expanded="true" />
-            <element signature="e#22763#23261#0" expanded="true" />
-            <element signature="e#23260#23261#0" expanded="true" />
-            <element signature="e#26992#27008#0" expanded="true" />
-            <element signature="e#34764#35872#0" expanded="true" />
-            <element signature="e#35871#35872#0" expanded="true" />
-            <element signature="e#39059#39844#0" expanded="true" />
-            <element signature="e#39843#39844#0" expanded="true" />
             <element signature="e#42160#42162#0" expanded="false" />
-            <element signature="e#66048#66064#0" expanded="true" />
-            <element signature="e#72200#72216#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -4028,7 +4029,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
           <caret line="374" column="26" lean-forward="false" selection-start-line="374" selection-start-column="8" selection-end-line="374" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="e#4188#4414#0" expanded="true" />
+            <element signature="e#4413#4414#0" expanded="true" />
+            <element signature="e#7430#9411#0" expanded="true" />
+            <element signature="e#9410#9411#0" expanded="true" />
+            <element signature="e#9461#10442#0" expanded="true" />
+            <element signature="e#10441#10442#0" expanded="true" />
+            <element signature="e#11230#12333#0" expanded="true" />
+            <element signature="e#12332#12333#0" expanded="true" />
+            <element signature="e#12568#13518#0" expanded="true" />
+            <element signature="e#13517#13518#0" expanded="true" />
+            <element signature="e#13635#14752#0" expanded="true" />
+            <element signature="e#14751#14752#0" expanded="true" />
+            <element signature="e#14861#15529#0" expanded="true" />
+            <element signature="e#15528#15529#0" expanded="true" />
+            <element signature="e#17284#17300#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
