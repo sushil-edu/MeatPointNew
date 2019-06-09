@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.payumoney.graphics:asset-download-sdk:0.4.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asset-download-sdk-0.4.1.aar/34467aebfc49c2dd352ff9f16e8e7b27/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asset-download-sdk-0.4.1.aar/34467aebfc49c2dd352ff9f16e8e7b27/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asset-download-sdk-0.4.1.aar/34467aebfc49c2dd352ff9f16e8e7b27/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.payumoney.graphics/asset-download-sdk/0.4.1/1e953846efeb3e636116b63498379e97867629fa/asset-download-sdk-0.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

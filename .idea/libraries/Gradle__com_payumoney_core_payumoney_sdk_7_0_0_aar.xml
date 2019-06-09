@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.payumoney.core:payumoney-sdk:7.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/payumoney-sdk-7.0.0.aar/bd7f03517b8b899bfad8a6def06c44d8/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/payumoney-sdk-7.0.0.aar/bd7f03517b8b899bfad8a6def06c44d8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/payumoney-sdk-7.0.0.aar/bd7f03517b8b899bfad8a6def06c44d8/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.payumoney.core/payumoney-sdk/7.0.0/9732bc173e8b1ef866f157736d93a5b6cb9e6d12/payumoney-sdk-7.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
