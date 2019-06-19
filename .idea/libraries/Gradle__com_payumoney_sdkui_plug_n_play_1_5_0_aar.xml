@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.payumoney.sdkui:plug-n-play:1.5.0@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/plug-n-play-1.5.0.aar/1340fc3d0cf37a5be7d335aa5973a84f/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/plug-n-play-1.5.0.aar/1340fc3d0cf37a5be7d335aa5973a84f/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/plug-n-play-1.5.0.aar/72aafd74a6555e7cc65ea887f5ed6b3e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/plug-n-play-1.5.0.aar/72aafd74a6555e7cc65ea887f5ed6b3e/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
