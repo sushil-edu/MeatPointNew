@@ -128,11 +128,7 @@
     <last-search-timestamp>1560943483275</last-search-timestamp>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a2c37be-7177-4db0-b3f9-89368dc7f92d" name="Default Changelist" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6a2c37be-7177-4db0-b3f9-89368dc7f92d" name="Default Changelist" comment="Initial commit" />
     <list id="f81f963b-17f2-45d9-a0a7-7a3549356da3" name="Initial commit" comment="Initial commit&#10;&#10;(cherry picked from commit b7ef5248bb61a0603fb8ff4800ef25614bb4bf94)">
       <changelist_data name="Sushil" email="sushil.xperiatectt@gmail.com" date="1560941862000" />
     </list>
@@ -499,10 +495,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" sideWeight="0.50165564" side_tool="true" weight="0.19224556" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49834436" visible="true" weight="0.19224556" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49834436" visible="true" weight="0.19224556" />
       <window_info id="Structure" order="2" sideWeight="0.50165564" side_tool="true" weight="0.19224556" />
       <window_info id="Favorites" order="3" sideWeight="0.50165564" side_tool="true" weight="0.19224556" />
       <window_info id="Build Variants" order="4" sideWeight="0.50165564" side_tool="true" weight="0.19224556" />
@@ -515,10 +510,10 @@
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.32891566" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5024233" side_tool="true" weight="0.17260274" />
       <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.7003231" weight="0.32876712" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49757674" visible="true" weight="0.17260274" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49757674" weight="0.17260274" />
       <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Find" order="9" weight="0.32876712" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" weight="0.32956383" />
